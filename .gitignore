@@ -3,7 +3,8 @@ instance/*
 !instance/.gitignore
 .webassets-cache
 .env
-
+.idea/
+migrations/versions
 ### Python template
 # Byte-compiled / optimized / DLL files
 __pycache__/
